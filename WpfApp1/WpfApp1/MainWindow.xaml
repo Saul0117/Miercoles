@@ -20,7 +20,7 @@
             </Button>
             <Separator/>
             <ToggleButton Command="EditingCommands.ToggleBold" x:Name="btnBold"/>
-                <Image Source="Resources/Bold.png" Width="16" Height="16"/>
+            <Image Source="Resources/Bold.png" Width="16" Height="16"/>
             <ToggleButton/>
             <ToggleButton Command="EditingCommands.ToggleItalic" x:Name="btnItalic"/>
             <Image Source="Resources/italic.png" Width="16" Height="16"/>
